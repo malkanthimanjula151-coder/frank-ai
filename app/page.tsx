@@ -45,7 +45,7 @@ export default function Home() {
     <main className="flex h-screen flex-col bg-[#0a0a0a]">
       <header className="flex items-center gap-3 border-b border-white/10 p-4">
         <img src="/icon-192.png" className="h-8 w-8 rounded-full" alt="FRANK" />
-        <h1 className="text-xl font-semibold">FRANK AI</h1>
+        <h1 className="text-xl font-semibold">FRANK CROFTON AI</h1>
       </header>
 
       <div className="flex-1 overflow-y-auto p-4 space-y-4">
