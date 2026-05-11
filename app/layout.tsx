@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FRANK AI",
+  title: "FRANK CROFTON AI",
   description: "Your personal AI assistant",
   manifest: "/manifest.json",
   icons: {
